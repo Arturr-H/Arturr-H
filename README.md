@@ -4,4 +4,5 @@
 
 <hr />
 
-Welcome to my profile! My main languages are **Rust**, **JavaScript** **/** **TypeScript** and **Python**. I'm 16 years old and I create projects just for fun. 
+Please checkout my portfolio <a href="https://www.artur.red">here</a>, where I have a more detailed description about who I am and what I've been working on.
+Welcome to my profile! My main languages are **Rust**, **JavaScript** **/** **TypeScript** and I sometimes also use **Python**. I'm 18 years old and I create projects just for fun. 
