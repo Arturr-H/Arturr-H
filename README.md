@@ -1,7 +1,5 @@
-<p align="center">
-  <img width="50%" align="center" src="https://user-images.githubusercontent.com/77272429/222733086-c0f1b410-d9b9-440f-bc0f-cb468d47b079.svg" title="" />
-</p>
+# Artur Hoffsümmer
 
-<hr />
+• Est. 2006 • Student • <a href="https://www.artur.red" />Artur.red</a> • <a href="https://apps.apple.com/se/app/melapse/id6467423081?l=en-GB">MeLapse</a> • <a href="mailto:mail@artur.red">mail@artur.red</a> • Swift • Rust • Typescript • React • React-native • Docker •
 
-Please check out my portfolio <a href="https://www.artur.red">here</a>, where I have a more detailed description about who I am and what I've been working on.
+Please check out my portfolio <a href="https://www.artur.red" />Artur.red</a>, there's really nothing to see here
